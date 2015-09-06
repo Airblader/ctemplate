@@ -1,0 +1,5 @@
+PROJECT
+obj/*.o
+man/*.1
+man/*.xml
+test/GLOB*
