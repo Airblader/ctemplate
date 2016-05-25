@@ -1,3 +1,1 @@
 # PROJECT
-
-Lorem ipsum.
